@@ -1,18 +1,46 @@
-# Hito 1 - Pizzería Mamma Mia 🍕
+# Hito 2 - Pizzería Mamma Mia 🍕
 
 Proyecto desarrollado como parte del módulo de React del Bootcamp Full Stack JavaScript de Desafío Latam.
 
 ## Descripción
 
-Aplicación desarrollada con React y Vite para practicar la creación y reutilización de componentes, el uso de props y la renderización condicional.
+En este hito se trabaja el manejo de estados y eventos en React mediante formularios de registro e inicio de sesión.
 
-## Componentes
+## Aprendizajes aplicados
+
+- Uso de `useState`
+- Manejo de eventos con `onChange`
+- Validación de formularios
+- Uso de `onSubmit`
+- Uso de `preventDefault`
+- Validaciones de campos obligatorios
+- Validación de longitud de contraseña
+- Confirmación de contraseña
+
+## Componentes principales
 
 - Navbar
-- Home
-- Header
-- CardPizza
+- Register
+- Login
 - Footer
+
+## Requerimientos del Hito 2
+
+### Registro
+
+- Email
+- Contraseña
+- Confirmar contraseña
+- Validación de campos obligatorios
+- Contraseña de mínimo 6 caracteres
+- Contraseñas coincidentes
+
+### Login
+
+- Email
+- Contraseña
+- Validación de campos obligatorios
+- Contraseña de mínimo 6 caracteres
 
 ## Tecnologías utilizadas
 
@@ -20,17 +48,3 @@ Aplicación desarrollada con React y Vite para practicar la creación y reutiliz
 - JavaScript
 - CSS
 - Vite
-
-## Funcionalidades
-
-- Navegación con botones mostrados según el estado del token.
-- Visualización del total de compra.
-- Tarjetas de pizzas reutilizables mediante props.
-- Formato de precios con separador de miles.
-- Diseño responsive.
-
-## Demo
-
-Proyecto desplegado con GitHub Pages.
-
-https://constanzacousins-wq.github.io/hito-1-pizzeria-mamma-mia/
