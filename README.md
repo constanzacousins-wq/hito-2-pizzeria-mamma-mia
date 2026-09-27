@@ -48,3 +48,9 @@ En este hito se trabaja el manejo de estados y eventos en React mediante formula
 - JavaScript
 - CSS
 - Vite
+
+## Demo
+
+Puedes ver el proyecto desplegado en GitHub Pages aquí:
+
+https://constanzacousins-wq.github.io/hito-2-pizzeria-mamma-mia/
